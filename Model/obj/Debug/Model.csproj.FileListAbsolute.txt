@@ -1,0 +1,6 @@
+C:\Code\Workspaces\ErrorLog\WebDoc\Model\bin\Debug\Model.dll
+C:\Code\Workspaces\ErrorLog\WebDoc\Model\bin\Debug\Model.pdb
+C:\Code\Workspaces\ErrorLog\WebDoc\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Code\Workspaces\ErrorLog\WebDoc\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Code\Workspaces\ErrorLog\WebDoc\Model\obj\Debug\Model.dll
+C:\Code\Workspaces\ErrorLog\WebDoc\Model\obj\Debug\Model.pdb

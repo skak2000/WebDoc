@@ -1,0 +1,11 @@
+C:\Code\Workspaces\ErrorLog\WebDoc\BuisnessLogicLayer\bin\Debug\BuisnessLogicLayer.dll
+C:\Code\Workspaces\ErrorLog\WebDoc\BuisnessLogicLayer\bin\Debug\BuisnessLogicLayer.pdb
+C:\Code\Workspaces\ErrorLog\WebDoc\BuisnessLogicLayer\bin\Debug\Model.dll
+C:\Code\Workspaces\ErrorLog\WebDoc\BuisnessLogicLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Code\Workspaces\ErrorLog\WebDoc\BuisnessLogicLayer\bin\Debug\Model.pdb
+C:\Code\Workspaces\ErrorLog\WebDoc\BuisnessLogicLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Code\Workspaces\ErrorLog\WebDoc\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.csproj.AssemblyReference.cache
+C:\Code\Workspaces\ErrorLog\WebDoc\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Code\Workspaces\ErrorLog\WebDoc\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.csproj.CopyComplete
+C:\Code\Workspaces\ErrorLog\WebDoc\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.dll
+C:\Code\Workspaces\ErrorLog\WebDoc\BuisnessLogicLayer\obj\Debug\BuisnessLogicLayer.pdb

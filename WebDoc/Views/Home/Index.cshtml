@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Model.DocTemplate>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create template", "CreateTemplate", null, new { @class = "btn btn-success" })
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreateDate)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreateDate)
+        </td>        
+        <td>
+            @Html.ActionLink("UseTemplate", "UseTemplate", new { DocTemplateId = item.DocTemplateId }, new { @class = "btn btn-primary" })
+        </td>
+    </tr>
+}
+
+</table>
